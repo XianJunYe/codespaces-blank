@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T06:22:33.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="IK8xxg2HIR68FeRaB-a_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T06:50:29.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3wzfu6jAqbPPKSUb_pr4" version="21.5.0" type="github">
   <diagram name="第 1 页" id="J7mMz2AS_QD8TT7dZT5X">
-    <mxGraphModel>
+    <mxGraphModel dx="1246" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-7" value="用户操作逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="535" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="484.5" as="sourcePoint" />
+            <mxPoint x="250" y="484.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="445" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-11" value="挑选喜欢的商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="535" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-12" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="445" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="484.5" as="sourcePoint" />
+            <mxPoint x="440" y="484.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-15" value="添加商品到购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="535" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.select;" vertex="1" parent="1">
+          <mxGeometry x="630" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="484.5" as="sourcePoint" />
+            <mxPoint x="610" y="484.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-18" value="完成支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="535" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-19" value="" style="image;html=1;image=img/lib/clip_art/people/Telesales_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="745" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-20" value="管理员操作逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="845" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-21" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="54" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-22" value="管理商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pointer;" vertex="1" parent="1">
+          <mxGeometry x="290" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-25" value="管理订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="745" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="830" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-27" value="管理用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="830" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-28" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.privacy;" vertex="1" parent="1">
+          <mxGeometry x="302" y="930" width="38" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-29" value="监测数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="935" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dElah9kEDJpZpRQ2OeUi-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="790" as="sourcePoint" />
+            <mxPoint x="280" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dElah9kEDJpZpRQ2OeUi-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="800" as="sourcePoint" />
+            <mxPoint x="280" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dElah9kEDJpZpRQ2OeUi-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="794" as="sourcePoint" />
+            <mxPoint x="280" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dElah9kEDJpZpRQ2OeUi-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="795" as="sourcePoint" />
+            <mxPoint x="290" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-34" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="1">
+          <mxGeometry x="282" y="330" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-35" value="查看历史订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dElah9kEDJpZpRQ2OeUi-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
